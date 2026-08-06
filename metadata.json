@@ -1,0 +1,6 @@
+{
+  "name": "Rayhan Digital Shop",
+  "description": "Rayhan Digital Shop e-commerce app powered by Supabase Auth, Database, and Storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
